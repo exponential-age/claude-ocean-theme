@@ -42,3 +42,7 @@ To use a different location or different thresholds, edit the top of `hooks/regi
 - `THRESHOLDS`: the context percentages at which the sea steps up (`[20, 40, 60, 80]`)
 
 While the theme is on, it sets light or dark mode itself, following the sun.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

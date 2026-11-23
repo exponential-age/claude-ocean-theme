@@ -1,1 +1,7 @@
-{ "name": "ocean-tide", "version": "0.1.0", "description": "Deep-navy ocean theme whose waves grow rougher as the context window fills, with whitecaps near the limit", "types": "./types/index.d.ts" }
+{
+  "name": "ocean-tide",
+  "version": "0.1.0",
+  "description": "Deep-navy ocean theme whose waves grow rougher as the context window fills, with whitecaps near the limit",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
