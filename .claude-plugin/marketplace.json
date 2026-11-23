@@ -1,0 +1,5 @@
+{
+  "name": "claude-ocean-theme",
+  "owner": { "name": "exponential-age" },
+  "plugins": [{ "name": "ocean-tide", "source": "./" }]
+}
